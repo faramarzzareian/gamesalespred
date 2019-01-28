@@ -59,11 +59,15 @@ I choose the name of games as X and the mount of their sales as Y.
 # Implementing the Algorithms
 
 1-Linear Regression
+
 2-SVR ( SUPPORT VECTOR MACHINES )
 
 # Results
 
 Linear regression : cross-validation 68%
+
                     accuracy 73%
+                    
 SVR               : cross-validation 57%
+
                     accuracy 58%                    
