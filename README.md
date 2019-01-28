@@ -1,7 +1,7 @@
 # Video Game Sales Prediction - ML Project
 The Project is Coded for Machine learning Course and it is studied by (Prof.Lorenzo Rosasco, Prof.Alessandro Verri) in Univerity of Genova,italy 2018/2019
 
-This project is a machine learning about  predicting  the video games sales which is coded in python.
+This project is predicting the video games sales in several different Area and it is coded in python.
 
 project is a supervised-Regression.
 
