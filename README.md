@@ -64,10 +64,14 @@ I choose the name of games as X and the mount of their sales as Y.
 
 # Results
 
-Linear regression : cross-validation 68%
+Linear regression : 
+
+                    cross-validation 68%
 
                     accuracy 73%
                     
-SVR               : cross-validation 57%
+SVR               : 
+
+                    cross-validation 57%
 
                     accuracy 58%                    
