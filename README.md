@@ -1,4 +1,6 @@
 # Video Game Sales Prediction - ML Project
+The Project is Coded for Machine learning Course and it is studied by (Prof.Lorenzo Rosasco, Prof.Alessandro Verri) in Univerity of Genova,italy 2018/2019
+
 This project is a machine learning about  predicting  the video games sales which is coded in python.
 
 project is a supervised-Regression.
@@ -6,7 +8,7 @@ project is a supervised-Regression.
 #  Data Set 
 
 After search in kaggle I found several game related data sets but i choosed to take the video games sales for predicting the sales . 
-first of all I had to pre-process the data set I choosed then use the algorithms  " SVM (support vector machines) ", " Linear Regression " , " " .
+first of all I had to pre-process the data set I choosed then use the algorithms : SVM (support vector machines) , Linear Regression 
 and in the final we have accuracy and cross validation values.
 
 Data Pre-Processing
@@ -19,14 +21,14 @@ data set Link : https://www.kaggle.com/gregorut/videogamesales
 1- Data Pre-Processing
 2-Implementing the Algorithms
 
-#Data Pre-Processing
+# Data Pre-Processing
 Data set Link : https://www.kaggle.com/gregorut/videogamesales
 with 16579 records for each column and 11 column.
 
 1-First step is loading the data set in program you want to write the codes , for me it is a jupiter note book of anaconda ( www.anaconda.com)
 
 2-the second part I start to find how many null we have so with the code we find how many of our datas in which column are null and then after we found that out 
-which type of data is null we can do the right action for example in this dataset I have nulls in my Year column and we have two option to 
+which type of data is null we can do the right action for example in this dataset I have nulls in my "Year" column and we have two option to 
 set a mean of all other years into null and the other option is if our null data is not that much in compare of our rows  we can delete entire the rows with null data but this is not a good option and 
 it will change the results dramatically
 
