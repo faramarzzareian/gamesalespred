@@ -31,7 +31,10 @@ YEAR = Year of release (Since 1980 to 2016)
 
 # Steps of Project 
 1- Data Pre-Processing
-2-Implementing the Algorithms
+
+2- Implementing the Algorithms
+
+3- Results
 
 # Data Pre-Processing
 Data set Link : https://www.kaggle.com/gregorut/videogamesales
