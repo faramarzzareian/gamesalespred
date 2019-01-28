@@ -11,6 +11,14 @@ After search in kaggle I found several game related data sets but i choosed to t
 first of all I had to pre-process the data set I choosed then use the algorithms : SVM (support vector machines) , Linear Regression 
 and in the final we have accuracy and cross validation values.
 .csv format file and it contains 16500 rows and 11 column, the number for each sales are defined as million dollar.
+JP = JAPAN SALES
+EU = EUROPEAN SALES
+NA = NORTH AMERICA SALES
+GLOBAL SALES = SALES AROUND THE WORLD
+PUBLISHER = THE COMPANY MADE A GAMES
+SALES = IN MILLION DOLLAR
+PLATFORM = Release platform for the game
+YEAR = Year of release (Since 1980 to 2016)
 
 # Steps of Project 
 1- Data Pre-Processing
@@ -42,4 +50,8 @@ I choose the name of games as X and the mount of their sales as Y.
 2-SVR ( SUPPORT VECTOR MACHINES )
 
 # Results
-The best cross-validation is 48% and accuracy is 49%
+
+Linear regression : cross-validation 68%
+                    accuracy 73%
+SVR               : cross-validation 57%
+                    accuracy 58%                    
