@@ -10,11 +10,6 @@ project is a supervised-Regression.
 After search in kaggle I found several game related data sets but i choosed to take the video games sales for predicting the sales . 
 first of all I had to pre-process the data set I choosed then use the algorithms : SVM (support vector machines) , Linear Regression 
 and in the final we have accuracy and cross validation values.
-
-Data Pre-Processing
-
-data set Link : https://www.kaggle.com/gregorut/videogamesales
-
 .csv format file and it contains 16500 rows and 11 column, the number for each sales are defined as million dollar.
 
 # Steps of Project 
