@@ -47,14 +47,18 @@ which type of data is null we can do the right action for example in this datase
 set a mean of all other years into null and the other option is if our null data is not that much in compare of our rows  we can delete entire the rows with null data but this is not a good option and 
 it will change the results dramatically
 
-3-so, in the next part I drop the columns which i dont want to use with
+
+3-in this part I want to convert names of games which is categorical into a numerical because work with categorical inputs is difficalt and most of times not possible.
+
+
+4-so, in the next part I drop the columns which i dont want to use with
 and the main purpose of drop for me is because my laptop is so old and process will take more times.
 beside of drop some column I add some code to drop some of data from buttom because of the old laptop , so can delet that part.
 
-4-its time for choosing Features X and Labels Y
+5-its time for choosing Features X and Labels Y
 I choose the name of games as X and the mount of their sales as Y.
 
-5- in this part I splite the data set into Training and Test sets.
+6- in this part I splite the data set into Training and Test sets.
 
 # Implementing the Algorithms
 
