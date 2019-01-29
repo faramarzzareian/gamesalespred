@@ -79,19 +79,39 @@ SVR               :
                     
 KNN ( RMSE ) 
 
+
 RMSE value for k=  1 is: 0.5596475260681059
+
+
 RMSE value for k=  2 is: 0.47944528353956
+
+
 RMSE value for k=  3 is: 0.4754904773280576
+
+
 RMSE value for k=  4 is: 0.4703379710903737
+
+
 RMSE value for k=  5 is: 0.47438705444336976
+
+
 RMSE value for k=  6 is: 0.4740020658967919
+
+
 # RMSE value for k=  7 is: 0.4623625231010482
+
+
 RMSE value for k=  8 is: 0.46392061552023933
+
+
 RMSE value for k=  9 is: 0.4674917209011803
+
+
 RMSE value for k=  10 is: 0.46918482364345615
+
+
 RMSE value for k=  11 is: 0.4719602390941327
+
+
 RMSE value for k=  12 is: 0.47209735714686746
-RMSE value for k=  13 is: 0.4737564505571469
-RMSE value for k=  14 is: 0.47640792825609707
-RMSE value for k=  15 is: 0.4778380318487981
-RMSE value for k=  16 is: 0.48052891654108226                
+               
