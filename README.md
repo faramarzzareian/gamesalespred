@@ -61,6 +61,8 @@ I choose the name of games as X and the mount of their sales as Y.
 1-Linear Regression
 
 2-SVR ( SUPPORT VECTOR MACHINES )
+
+
 3- knn ( RMSE ) I used this code exprimentaly to see how knn regression works and in this code I used k=1 to 100 and the result is Root Mean Square Error , so when our error is lowest possible it means its better. and in this case k=7 is the best possible
 
 # Results
