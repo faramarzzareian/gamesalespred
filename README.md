@@ -38,9 +38,10 @@ YEAR = Year of release (Since 1980 to 2016)
 
 # Data Pre-Processing
 Data set Link : https://www.kaggle.com/gregorut/videogamesales
-with 16579 records for each column and 11 column.
+with 16579 rows for each 11 column.
 
-1-First step is loading the data set in program you want to write the codes , for me it is a jupiter note book of anaconda ( www.anaconda.com)
+1-First step is loading the data set in program you want to write the codes , for me it is a jupiter note book of anaconda 
+(www.anaconda.com)
 
 2-the second part I start to find how many null we have so with the code we find how many of our datas in which column are null and then after we found that out 
 which type of data is null we can do the right action for example in this dataset I have nulls in my "Year" column and we have two option to 
