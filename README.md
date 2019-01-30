@@ -68,7 +68,7 @@ I choose the name of games as X and the mount of their sales as Y.
 2-SVR ( SUPPORT VECTOR MACHINES )
 
 
-3- knn ( RMSE ) I used this code exprimentaly to see how knn regression works and in this code I used k=1 to 100 and the result is Root Mean Square Error , so when our error is lowest possible it means its better. and in this case k=7 is the best possible
+ 
 
 # Results
 
@@ -84,34 +84,4 @@ SVR               :
 
                     accuracy 58%           
                     
-KNN ( RMSE ) 
-
-
-                  RMSE value for k=  1 is: 0.5596475260681059
-
-
-                  RMSE value for k=  2 is: 0.47944528353956
-
-
-                  RMSE value for k=  3 is: 0.4754904773280576
-
-
-                  RMSE value for k=  4 is: 0.4703379710903737
-
-
-                  RMSE value for k=  5 is: 0.47438705444336976
-
-
-                  RMSE value for k=  6 is: 0.4740020658967919
-
-
-                  RMSE value for k=  7 is: 0.4623625231010482
-
-
-                  RMSE value for k=  8 is: 0.46392061552023933
-
-
-                  RMSE value for k=  9 is: 0.4674917209011803
-
-
-               
+ 
